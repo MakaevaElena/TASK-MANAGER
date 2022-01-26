@@ -2,7 +2,7 @@
   "name": "taskmanager-demo-project",
   "version": "16.0.0",
   "private": true,
-  "homepage": "https://makaevaelena.github.io/BIG-TRIP/",
+  "homepage": "https://makaevaelena.github.io/TASK-MANAGER/",
   "description": "Учебный демо-проект «Менеджер задач» от HTML Academy",
   "scripts": {
     "eslint": "eslint src/",

@@ -45967,7 +45967,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-const AUTHORIZATION = 'Basic hS2sfS44wcl1sa2j';
+const AUTHORIZATION = 'Basic abracadabra';
 const END_POINT = 'https://16.ecmascript.pages.academy/task-manager';
 const siteMainElement = document.querySelector('.main');
 const siteHeaderElement = siteMainElement.querySelector('.main__control');

@@ -1,14 +1,14 @@
 import SiteMenuView from './view/site-menu-view.js';
 import StatisticsView from './view/statistics-view.js';
-import {render, RenderPosition, remove} from './utils/render.js';
+import { render, RenderPosition, remove } from './utils/render.js';
 import BoardPresenter from './presenter/board-presenter.js';
 import FilterPresenter from './presenter/filter-presenter.js';
 import TasksModel from './model/tasks-model.js';
 import FilterModel from './model/filter-model.js';
-import {MenuItem} from './const.js';
+import { MenuItem } from './const.js';
 import ApiService from './api-service.js';
 
-const AUTHORIZATION = 'Basic hS2sfS44wcl1sa2j';
+const AUTHORIZATION = 'Basic abracadabra';
 const END_POINT = 'https://16.ecmascript.pages.academy/task-manager';
 
 const siteMainElement = document.querySelector('.main');
